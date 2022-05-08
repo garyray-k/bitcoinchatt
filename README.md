@@ -1,2 +1,0 @@
-# shenandoahbitcoinclub
-# shenandoahbitcoinclub
