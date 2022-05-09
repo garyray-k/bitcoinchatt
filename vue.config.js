@@ -3,6 +3,22 @@ const path = require("path");
 
 module.exports = {
   publicPath: "/shenandoahbitcoinclub",
-  outputDir: path.resolve(__dirname, "./dist"),
-  assetsDir: "dist",
+  chainWebpack: (config) => {
+    config.module
+      .rule('images')
+      .use('url-loader')
+      .tap(options => Object.assign({}, options, { name: '[name].[ext]' }));
+  },
+  css: {
+    extract: {
+      filename: '[name].css',
+      chunkFilename: '[name].css',
+    },
+  },
+  configureWebpack: {
+    output: {
+      filename: '[name].js',
+      chunkFilename: '[name].js',
+    }
+  }
 };
