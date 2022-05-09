@@ -28,6 +28,15 @@
         >
       </li>
     </ul>
+    <h4>
+      <a
+        href="https://github.com/CodeChiefDotDev/shenandoahbitcoinclub/issues"
+        target="_blank"
+        class="ml-md-auto"
+      >
+        See an Error on this site?</a
+      >
+    </h4>
   </div>
 </template>
 <script lang="ts">
