@@ -9,8 +9,6 @@ const fs = require("fs");
     await execa("npm", ["run", "build"]);
     // Understand if it's dist or build folder
     const folderName = fs.existsSync("dist") ? "dist" : "build";
-    await execa("git", ["--work-tree", folderName, "add", "--all"]);
-    await execa("git", ["--work-tree", folderName, "commit", "-m", "gh-pages"]);
     const website = 'shenandoahbitcoin.club';
     fs.writeFile(`${folderName}/CNAME`, website, err => {
       if (err) {
@@ -18,6 +16,8 @@ const fs = require("fs");
       }
       console.log(`CNAME file created: ${website}`);
     });
+    await execa("git", ["--work-tree", folderName, "add", "--all"]);
+    await execa("git", ["--work-tree", folderName, "commit", "-m", "gh-pages"]);
     await execa("echo", ["shenandoahbitcoin.club", ">", "CNAME"]);
     console.log("Pushing to gh-pages...");
     await execa("git", ["push", "origin", "HEAD:gh-pages", "--force"]);
