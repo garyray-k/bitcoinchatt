@@ -1,12 +1,5 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-    <p>
-      Educating an collaborating on
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
-        >vue-cli documentation</a
-      >.
-    </p>
     <h3>Slide Shows</h3>
     <ul>
       <li>
@@ -54,10 +47,7 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: "HelloWorld",
-  props: {
-    msg: String,
-  },
+  name: "Resources",
 });
 </script>
 
