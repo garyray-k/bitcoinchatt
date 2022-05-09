@@ -1,12 +1,12 @@
 <template>
   <div class="about">
     <h1>About</h1>
-    <resources />
     <p>Run by Gary Krause, a software engineer and a bitcoin enthusiast.</p>
     <p>
       Meeting occuring monthly as various lcoations around the Winchester area.
     </p>
     <p>If you're interested in more information, please contact me.</p>
+    <resources />
     <h3>Contact</h3>
     <ul>
       <li>
@@ -17,6 +17,14 @@
       <li>
         <a href="https://codechief.dev" target="_blank" class="ml-md-auto"
           >Code Chief LLC</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.linkedin.com/in/garyray-k/"
+          target="_blank"
+          class="ml-md-auto"
+          >LinkedIn</a
         >
       </li>
     </ul>
@@ -33,3 +41,19 @@ export default defineComponent({
   },
 });
 </script>
+<style scoped>
+h3 {
+  margin: 40px 0 0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+a {
+  color: #42b983;
+}
+</style>
