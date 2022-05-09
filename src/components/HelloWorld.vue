@@ -2,109 +2,49 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br />
-      check out the
+      Educating an collaborating on
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
         >vue-cli documentation</a
       >.
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>Slide Shows</h3>
     <ul>
       <li>
         <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
+          href="https://docs.google.com/presentation/d/1pZdj4dmijSixUiiCpAEtbRmqE2D9pAsBljqE9rJQV2w/edit?usp=sharing"
           target="_blank"
-          rel="noopener"
-          >babel</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router"
-          target="_blank"
-          rel="noopener"
-          >router</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint"
-          target="_blank"
-          rel="noopener"
-          >eslint</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-unit-jest"
-          target="_blank"
-          rel="noopener"
-          >unit-jest</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-typescript"
-          target="_blank"
-          rel="noopener"
-          >typescript</a
+          class="ml-md-auto"
+          >Shenandoah Bitcoin Club Slides (1st Meeting)</a
         >
       </li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>Resources</h3>
     <ul>
       <li>
-        <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
-      </li>
-      <li>
-        <a href="https://forum.vuejs.org" target="_blank" rel="noopener"
-          >Forum</a
-        >
-      </li>
-      <li>
-        <a href="https://chat.vuejs.org" target="_blank" rel="noopener"
-          >Community Chat</a
-        >
-      </li>
-      <li>
-        <a href="https://twitter.com/vuejs" target="_blank" rel="noopener"
-          >Twitter</a
-        >
-      </li>
-      <li>
-        <a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a>
-      </li>
-    </ul>
-    <h3>Ecosystem</h3>
-    <ul>
-      <li>
-        <a href="https://router.vuejs.org" target="_blank" rel="noopener"
-          >vue-router</a
-        >
-      </li>
-      <li>
-        <a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a>
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-devtools#vue-devtools"
-          target="_blank"
-          rel="noopener"
-          >vue-devtools</a
-        >
-      </li>
-      <li>
-        <a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener"
-          >vue-loader</a
+        <a href="https://bitcoiner.guide/" target="_blank" class="ml-md-auto"
+          >Bitcoiner.Guide</a
         >
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/awesome-vue"
+          href="https://bitcoinforlocalbusiness.com/"
           target="_blank"
-          rel="noopener"
-          >awesome-vue</a
+          class="ml-md-auto"
+          >Bitcoin for Local Business</a
         >
+      </li>
+      <li>
+        <a
+          href="https://bitcoinmagazine.com/"
+          target="_blank"
+          class="ml-md-auto"
+          >Bitcoin Magazine</a
+        >
+      </li>
+      <li>
+        <a href="https://github.com/bitcoin" target="_blank" class="ml-md-auto"
+          >Bitcoin Github (Code)</a
+        ><br />
       </li>
     </ul>
   </div>
