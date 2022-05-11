@@ -1,9 +1,19 @@
 <template>
   <div class="home">
-    <h2>Next Meeting: June 3rd, 2022 at 7pm. Location TBD</h2>
+    <h2>
+      Next Meeting: June 3rd, 2022 at 7pm. Location:
+      <a
+        href="https://www.villagesquarerestaurant.com/"
+        target="_blank"
+        class="ml-md-auto"
+      >
+        Village Square</a
+      >
+    </h2>
+    <h3>Please RSVP with gary@codechief.dev if you plan on attending.</h3>
     <h1>Shenandoah Bitcoin Club</h1>
     <p>Educating an collaborating on Bitcoing in the Shenandoah Valley.</p>
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <img alt="Bitcoin symbol" src="../assets/logo.png" />
   </div>
 </template>
 
