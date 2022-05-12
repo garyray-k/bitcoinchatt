@@ -39,6 +39,11 @@
           >Bitcoin Github (Code)</a
         ><br />
       </li>
+      <li>
+        <a href="http://b.tc/21days" target="_blank" class="ml-md-auto"
+          >21 Days to Learn Bitcoin (A daily email for 21 days)</a
+        ><br />
+      </li>
     </ul>
   </div>
 </template>
