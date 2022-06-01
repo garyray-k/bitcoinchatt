@@ -7,7 +7,7 @@
           href="https://docs.google.com/presentation/d/1pZdj4dmijSixUiiCpAEtbRmqE2D9pAsBljqE9rJQV2w/edit?usp=sharing"
           target="_blank"
           class="ml-md-auto"
-          >Shenandoah Bitcoin Club Slides (1st Meeting)</a
+          >Shenandoah Bitcoin Club Slides (Basics)</a
         >
       </li>
     </ul>
@@ -61,14 +61,17 @@ export default defineComponent({
 h3 {
   margin: 40px 0 0;
 }
+
 ul {
   list-style-type: none;
   padding: 0;
 }
+
 li {
   display: inline-block;
   margin: 0 10px;
 }
+
 a {
   color: #42b983;
 }
