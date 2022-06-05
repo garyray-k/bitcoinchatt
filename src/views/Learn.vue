@@ -6,13 +6,28 @@
     <a href="https://www.youtube.com/watch?v=wWCIQFNf_8g" target="_blank"
       >Youtube Explanation</a
     >
-    <p>Bitcoin Improvement Proposal (BIP) 39 defines mneumonic seed words.</p>
+    <p>
+      <a
+        href="https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki"
+        target="_blank"
+        >Bitcoin Improvement Proposal (BIP) 39</a
+      >
+      defines mneumonic seed words.
+    </p>
     <p>There are 2048 mneumonic seed words.</p>
     <p>
       The seed words used for your recovery are input into a cryptographic hash
       along with a user-defined passphrase.
     </p>
-    <p>This hash is then used to generate a private key.</p>
+    <p>
+      This hash is then used to generate a private key, generally using
+      <a
+        href="https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki"
+        target="_blank"
+        >BIP32</a
+      >
+      methodology.
+    </p>
   </div>
 </template>
 <script lang="ts">
