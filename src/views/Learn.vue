@@ -14,7 +14,14 @@
       >
       defines mneumonic seed words.
     </p>
-    <p>There are 2048 mneumonic seed words.</p>
+    <p>
+      There are
+      <a
+        href="https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt"
+        target="_blank"
+        >2048 mneumonic seed words.</a
+      >
+    </p>
     <p>
       The seed words used for your recovery are input into a cryptographic hash
       along with a user-defined passphrase.
@@ -27,6 +34,12 @@
         >BIP32</a
       >
       methodology.
+    </p>
+    <p>
+      <strong
+        >Note: Don't select your own words, use hardware/software designed for
+        the purpose.</strong
+      >
     </p>
   </div>
 </template>
