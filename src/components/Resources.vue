@@ -7,7 +7,7 @@
           href="https://docs.google.com/presentation/d/1pZdj4dmijSixUiiCpAEtbRmqE2D9pAsBljqE9rJQV2w/edit?usp=sharing"
           target="_blank"
           class="ml-md-auto"
-          >Shenandoah Bitcoin Club Slides (Basics)</a
+          >Shenandoah Bitcoin Club - Bitcoin 101</a
         >
       </li>
     </ul>
