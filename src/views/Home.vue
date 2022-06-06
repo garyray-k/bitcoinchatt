@@ -6,7 +6,10 @@
         Warehouse 351 Gym</a
       >
     </h2>
-    <h3>Please RSVP with gary@codechief.dev if you plan on attending.</h3>
+    <h3>
+      Please RSVP with gary@codechief.dev or on
+      <a href="https://fb.me/e/4Xl3QUwNy">Facebook</a> if you plan on attending.
+    </h3>
     <h1>Shenandoah Bitcoin Club</h1>
     <p>Educating an collaborating on Bitcoin in the Shenandoah Valley.</p>
     <img alt="Bitcoin symbol" src="../assets/logo.png" class="center-fit" />
