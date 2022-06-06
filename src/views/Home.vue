@@ -1,13 +1,9 @@
 <template>
   <div class="home">
     <h2>
-      Next Meeting: June 3rd, 2022 at 7pm. Location:
-      <a
-        href="https://www.villagesquarerestaurant.com/"
-        target="_blank"
-        class="ml-md-auto"
-      >
-        Village Square</a
+      Next Meeting: July 8th, 2022 at 7pm. Location:
+      <a href="https://www.351gym.com" target="_blank" class="ml-md-auto">
+        Warehouse 351 Gym</a
       >
     </h2>
     <h3>Please RSVP with gary@codechief.dev if you plan on attending.</h3>
