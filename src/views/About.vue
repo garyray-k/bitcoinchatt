@@ -25,7 +25,7 @@
     </p>
     --------------------------------------------------------------------------------
     <p>
-      Meeting occuring monthly at various locations around the Winchester, VA
+      Meeting occurring monthly at various locations around the Winchester, VA
       area.
     </p>
     <p>Run by Gary Krause, a software engineer and a bitcoin enthusiast.</p>
