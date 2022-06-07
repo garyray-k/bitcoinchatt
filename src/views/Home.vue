@@ -1,11 +1,6 @@
 <template>
   <div class="home">
-    <h2>
-      Next Meeting: July 8th, 2022 at 7pm. Location:
-      <a href="https://www.351gym.com" target="_blank" class="ml-md-auto">
-        Warehouse 351 Gym</a
-      >
-    </h2>
+    <h2>Next Meeting: July 8th, 2022 at 7pm. Location: TBD</h2>
     <h3>
       Please RSVP with gary@codechief.dev or on
       <a href="https://fb.me/e/4Xl3QUwNy">Facebook</a> if you plan on attending.
