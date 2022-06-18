@@ -44,6 +44,14 @@
           >21 Days to Learn Bitcoin (A daily email for 21 days)</a
         ><br />
       </li>
+      <li>
+        <a
+          href="https://youtu.be/hv34SPq4y_M"
+          target="_blank"
+          class="ml-md-auto"
+          >Triple Entry Accounting (YouTube)
+        </a>
+      </li>
     </ul>
   </div>
 </template>
