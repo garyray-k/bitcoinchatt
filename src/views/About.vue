@@ -50,6 +50,15 @@
           >LinkedIn</a
         >
       </li>
+      <li>
+        <a
+          href="https://twitter.com/garyKrause_"
+          target="_blank"
+          class="ml-md-auto"
+          >Twitter:</a
+        >
+        @garyKrause_
+      </li>
     </ul>
     <h4>
       <a
