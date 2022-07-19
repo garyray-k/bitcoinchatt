@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h2>
-      Next Meeting: July 8th, 2022 at 7pm. Location: El Centro (downtown
+      Next Meeting: August 10th, 2022 at 7pm. Location: El Centro (downtown
       Winchester)
     </h2>
     <h3>Please RSVP with gary@codechief.dev if you plan on attending.</h3>
