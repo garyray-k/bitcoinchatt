@@ -10,6 +10,14 @@
           >Shenandoah Bitcoin Club - Bitcoin 101</a
         >
       </li>
+      <li>
+        <a
+          href="https://docs.google.com/presentation/d/1bniwruV_KepNGk3dfS0WnMfdKCaLbjasgd0fqyMTHMM/edit?usp=sharing"
+          target="_blank"
+          class="ml-md-auto"
+          >Shenandoah Bitcoin Club - Bitcoin and Energy</a
+        >
+      </li>
     </ul>
     <h3>Resources</h3>
     <ul>
