@@ -18,6 +18,14 @@
           >Shenandoah Bitcoin Club - Bitcoin and Energy</a
         >
       </li>
+      <li>
+        <a
+          href="https://docs.google.com/presentation/d/1ulEaWbKdKrufwlNM4pEmU06AMXaeRhQtlPSPunHYO24/edit?usp=sharing"
+          target="_blank"
+          class="ml-md-auto"
+          >Shenandoah Bitcoin Club - Bitcoin and Inflation</a
+        >
+      </li>
     </ul>
     <h3>Resources</h3>
     <ul>
