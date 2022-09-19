@@ -1,7 +1,7 @@
 <template>
   x
   <div class="home">
-    <h2>Next Meeting: TBD Location: TBD</h2>
+    <h2>Next Meeting: October 13, 2022 @ 7pm Location: TBD</h2>
     <h3>Please RSVP with gary@codechief.dev if you plan on attending.</h3>
     <h1>Shenandoah Bitcoin Club</h1>
     <p>Educating and collaborating on Bitcoin in the Shenandoah Valley.</p>
