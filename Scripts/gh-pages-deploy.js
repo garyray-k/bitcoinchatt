@@ -1,16 +1,16 @@
 /* eslint-disable */
-const execa = require("execa");
-const fs = require("fs");
-const deploy = (async () => {
+ (async () => {
+  let execa = await import('execa');
+  let { existsSync, writeFile } = await import('fs')
   try {
     await execa("git", ["checkout", "--orphan", "gh-pages"]);
     // eslint-disable-next-line no-console
     console.log("Building started...");
     await execa("npm", ["run", "build"]);
     // Understand if it's dist or build folder
-    const folderName = fs.existsSync("dist") ? "dist" : "build";
+    const folderName = existsSync("dist") ? "dist" : "build";
     const website = 'shenandoahbitcoin.club';
-    fs.writeFile(`${folderName}/CNAME`, website, err => {
+    writeFile(`${folderName}/CNAME`, website, err => {
       if (err) {
         console.error(err);
       }
@@ -31,5 +31,3 @@ const deploy = (async () => {
     process.exit(1);
   }
 })();
-
-export default deploy;

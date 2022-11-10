@@ -7,7 +7,8 @@
 		"build": "vue-cli-service build",
 		"test:unit": "vue-cli-service test:unit",
 		"lint": "vue-cli-service lint",
-		"deploy": "node Scripts/deploy.js"
+		"deploy": "gh-pages-deploy",
+		"clean-source": "rimraf README.md src webroot package.json"
 	},
 	"dependencies": {
 		"core-js": "^3.6.5",
@@ -32,6 +33,7 @@
 		"eslint-plugin-prettier": "^3.3.1",
 		"eslint-plugin-vue": "^7.0.0",
 		"execa": "latest",
+		"gh-pages-deploy": "^0.5.1",
 		"lint-staged": "^9.5.0",
 		"path": "^0.12.7",
 		"prettier": "^2.2.1",
@@ -46,5 +48,14 @@
 			"vue-cli-service lint",
 			"git add"
 		]
-	}
+	},
+	"gh-pages-deploy": {
+		"staticpath": "dist",
+		"cname": "shenandoahbitcoin.club",
+		"prep": [
+		  "build"
+		],
+		"noprompt": false
+	  }
+	
 }
