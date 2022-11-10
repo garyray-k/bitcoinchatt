@@ -1,5 +1,4 @@
 <template>
-  x
   <div class="home">
     <h2>
       Next Meeting: December 8th at 7pm. Location TBD.
