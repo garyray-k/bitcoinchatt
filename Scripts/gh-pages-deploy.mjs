@@ -1,7 +1,7 @@
 /* eslint-disable */
 const execa = require("execa");
 const fs = require("fs");
-(async () => {
+const deploy = (async () => {
   try {
     await execa("git", ["checkout", "--orphan", "gh-pages"]);
     // eslint-disable-next-line no-console
@@ -31,3 +31,5 @@ const fs = require("fs");
     process.exit(1);
   }
 })();
+
+export default deploy;
