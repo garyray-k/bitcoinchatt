@@ -2,7 +2,7 @@
   x
   <div class="home">
     <h2>
-      Next Meeting: October 13, 2022 @ 7pm Location: Cafe Del Sol - Winchester
+      Next Meeting: December 8th at 7pm. Location TBD.
     </h2>
     <h3>Please RSVP with gary@codechief.dev if you plan on attending.</h3>
     <h1>Shenandoah Bitcoin Club</h1>
