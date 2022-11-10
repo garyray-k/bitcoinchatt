@@ -1,6 +1,6 @@
 /* eslint-disable */
-import execa from "execa";
-import { existsSync, writeFile } from "fs";
+const execa = require("execa");
+const fs = require("fs");
 (async () => {
   try {
     await execa("git", ["checkout", "--orphan", "gh-pages"]);
@@ -8,9 +8,9 @@ import { existsSync, writeFile } from "fs";
     console.log("Building started...");
     await execa("npm", ["run", "build"]);
     // Understand if it's dist or build folder
-    const folderName = existsSync("dist") ? "dist" : "build";
+    const folderName = fs.existsSync("dist") ? "dist" : "build";
     const website = 'shenandoahbitcoin.club';
-    writeFile(`${folderName}/CNAME`, website, err => {
+    fs.writeFile(`${folderName}/CNAME`, website, err => {
       if (err) {
         console.error(err);
       }
