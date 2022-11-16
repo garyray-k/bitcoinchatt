@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h2>
-      Next Meeting: December 8th at 7pm. Location TBD.
+      Next Meeting: December 8th, 2022 @ 7pm Location: El Centro - Winchester
     </h2>
     <h3>Please RSVP with gary@codechief.dev if you plan on attending.</h3>
     <h1>Shenandoah Bitcoin Club</h1>
