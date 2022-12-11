@@ -1,6 +1,7 @@
 <template>
   <div class="about">
     <h1>About</h1>
+    <a href="https://hope.com" target="_blank">Bitcoin is hope.</a>
     <p>
       Have you heard about Bitcoin recently?
       <br />
