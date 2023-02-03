@@ -1,7 +1,18 @@
 <template>
   <div class="home">
-    <h2>Next Meeting: <strike>Jan 12, 2023 @ 7pm<strike> Canceled. Sorry! Location: Cafe del Sol</h2>
-    <h3>Please RSVP with gary@codechief.dev if you plan on attending.</h3>
+    <h2>
+      Next Meeting: February 17th @ 7pm <br />Location:
+      <a href="https://gui.gg/" target="_blank">GUI Esports Arena</a>
+    </h2>
+    <h3>
+      Please RSVP with
+      <a
+        href="https://www.meetup.com/shenandoah-bitcoin-club/events/291388469"
+        target="_blank"
+        >on Meetup.com</a
+      >
+      if you plan on attending.
+    </h3>
     <h1>Shenandoah Bitcoin Club</h1>
     <p>Educating and collaborating on Bitcoin in the Shenandoah Valley.</p>
     <img alt="Bitcoin symbol" src="../assets/logo.png" class="center-fit" />
