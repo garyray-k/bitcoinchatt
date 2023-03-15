@@ -1,13 +1,15 @@
 <template>
   <div class="home">
     <h2>
-      Next Meeting: February 17th @ 7pm <br />Location:
-      <a href="https://gui.gg/" target="_blank">GUI Esports Arena</a>
+      Next Meeting: Bitcoiner Brunch March 25th @ 10am <br />Location:
+      <a href="https://waterstkitchen.com/" target="_blank"
+        >Water Street Kitchen</a
+      >
     </h2>
     <h3>
       Please RSVP with
       <a
-        href="https://www.meetup.com/shenandoah-bitcoin-club/events/291388469"
+        href="https://www.meetup.com/shenandoah-bitcoin-club/events/292189233/"
         target="_blank"
         >on Meetup.com</a
       >

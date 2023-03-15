@@ -2,6 +2,10 @@
   <div class="about">
     <h1>Learn</h1>
     <resources />
+    <h3>We Run BTC</h3>
+    <a href="https://werunbtc.com/" target="_blank"
+      >Excellent curated getting started site</a
+    >
     <h3>How do mneumonic seeds word? (12 or 24 seed words)</h3>
     <a href="https://www.youtube.com/watch?v=wWCIQFNf_8g" target="_blank"
       >Youtube Explanation</a

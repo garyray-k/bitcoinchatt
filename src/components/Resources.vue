@@ -1,5 +1,18 @@
 <template>
   <div class="hello">
+    <h3>Buy with Bitcoin</h3>
+    <ul>
+      <li>
+        <a href="https://store.coinkite.com/store" target="_blank"
+          >Bitcoin Hardware Wallets aka robust security devices</a
+        >
+      </li>
+      <li>
+        <a href="https://lightningnetworkstores.com/" target="_blank"
+          >Lightning Network Stores</a
+        >
+      </li>
+    </ul>
     <h3>Slide Shows</h3>
     <ul>
       <li>
@@ -29,6 +42,14 @@
     </ul>
     <h3>Resources</h3>
     <ul>
+      <li>
+        <a
+          href="https://www.nobsbitcoin.com/"
+          target="_blank"
+          class="ml-md-auto"
+          >News for Bitcoiners</a
+        >
+      </li>
       <li>
         <a href="https://bitcoiner.guide/" target="_blank" class="ml-md-auto"
           >Bitcoiner.Guide</a
