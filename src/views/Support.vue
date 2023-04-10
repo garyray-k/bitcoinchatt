@@ -4,12 +4,20 @@
     <ul>
       <li>
         <a
+          href="https://river.com/signup?r=JRVL66TO"
+          target="_blank"
+          class="ml-md-auto"
+          >River Referral Link (BTC only Exchange/Company)</a
+        >
+        <p>Our recommended exchange.</p>
+      </li>
+      <li>
+        <a
           href="https://www.swanbitcoin.com/garykrause"
           target="_blank"
           class="ml-md-auto"
           >Swan Bitcoin Referral Link (BTC only Exchange)</a
         >
-        <p>Our recommended exchange.</p>
       </li>
     </ul>
     <h3>One on One Bitcoin Support</h3>
