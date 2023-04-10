@@ -11,6 +11,8 @@
         >
         <p>Our recommended exchange.</p>
       </li>
+    </ul>
+    <ul>
       <li>
         <a
           href="https://www.swanbitcoin.com/garykrause"
