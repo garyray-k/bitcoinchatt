@@ -38,10 +38,7 @@
           >garyraykrause@outlook.com</a
         >
       </li>
-      <li>
-        NOSTR: npub160t5zfxalddaccdc7xx30sentwa5lrr3rq4rtm38x99ynf8t0vwsvzyjc9
-      </li>
-      <li>NIP-05: satoshi@garykrause.dev</li>
+      <li>NOSTR NIP-05: satoshi@garykrause.dev</li>
       <li>
         <a
           href="https://twitter.com/garyKrause_"
