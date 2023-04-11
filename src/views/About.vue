@@ -34,23 +34,14 @@
     <h3>Contact</h3>
     <ul>
       <li>
-        <a href="mailto:gary@codechief.dev" class="ml-md-auto"
-          >gary@codechief.dev</a
+        <a href="mailto:garyraykrause@outlook.com" class="ml-md-auto"
+          >garyraykrause@outlook.com</a
         >
       </li>
       <li>
-        <a href="https://codechief.dev" target="_blank" class="ml-md-auto"
-          >Code Chief LLC</a
-        >
+        NOSTR: npub160t5zfxalddaccdc7xx30sentwa5lrr3rq4rtm38x99ynf8t0vwsvzyjc9
       </li>
-      <li>
-        <a
-          href="https://www.linkedin.com/in/garyray-k/"
-          target="_blank"
-          class="ml-md-auto"
-          >LinkedIn</a
-        >
-      </li>
+      <li>NIP-05: satoshi@garykrause.dev</li>
       <li>
         <a
           href="https://twitter.com/garyKrause_"
