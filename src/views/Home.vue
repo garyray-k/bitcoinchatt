@@ -2,14 +2,14 @@
   <div class="home">
     <h2>
       Next Meeting: Bitcoiner Brunch April 29th @ 10am <br />Location:
-      <a href="https://waterstkitchen.com/" target="_blank"
-        >Water Street Kitchen</a
-      >
+      <a href="https://www.paradisepupusas.com/" target="_blank"
+        >Paradise Restaurant aka Restaurante El Paraiso
+      </a>
     </h2>
     <h3>
       Please RSVP with
       <a
-        href="https://www.meetup.com/shenandoah-bitcoin-club/events/292770075/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"
+        href="https://www.meetup.com/shenandoah-bitcoin-club/events/293437469/"
         target="_blank"
         >on Meetup.com</a
       >
