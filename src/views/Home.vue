@@ -1,15 +1,15 @@
 <template>
   <div class="home">
     <h2>
-      Next Meeting: Bitcoiner Brunch April 29th @ 10am <br />Location:
-      <a href="https://www.paradisepupusas.com/" target="_blank"
-        >Paradise Restaurant aka Restaurante El Paraiso
+      Next Meeting: Bitcoin Board Game Night June 22nd @ 5pm <br />Location:
+      <a href="https://goo.gl/maps/yQky74FiHniAZMht7" target="_blank"
+        >College Park Church of Christ
       </a>
     </h2>
     <h3>
       Please RSVP with
       <a
-        href="https://www.meetup.com/shenandoah-bitcoin-club/events/293437469/"
+        href="https://www.meetup.com/shenandoah-bitcoin-club/events/293824584/"
         target="_blank"
         >on Meetup.com</a
       >
