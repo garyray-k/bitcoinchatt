@@ -23,7 +23,7 @@
       </li>
     </ul>
     <h3>One on One Bitcoin Support</h3>
-    <p>Please contact gary@codechief.dev to discuss.</p>
+    <p>Please contact garyraykrause@outlook.com to discuss.</p>
   </div>
 </template>
 <script lang="ts">
