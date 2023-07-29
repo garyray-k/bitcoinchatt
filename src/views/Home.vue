@@ -9,7 +9,11 @@
     </h2>
     <h1>Shenandoah Bitcoin Club</h1>
     <p>Educating and collaborating on Bitcoin in the Shenandoah Valley.</p>
-    <img alt="Bitcoin symbol" src="../assets/logo.png" class="center-fit" />
+    <img
+      alt="Bitcoin symbol"
+      src="../assets/shenandoahbitcoinlogo.png"
+      class="center-fit"
+    />
   </div>
 </template>
 
