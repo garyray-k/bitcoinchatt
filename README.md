@@ -1,5 +1,7 @@
 # bitcoin-club
 
+use node 16
+
 ## Project setup
 ```
 npm install
