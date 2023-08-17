@@ -3,7 +3,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  background-color: black;
+  color: white; /* to ensure text is visible on a dark background */
+}
+
+a {
+  color: #eead14;
 }
 
 #nav {
@@ -12,9 +17,9 @@ body {
 
 #nav a {
   font-weight: bold;
-  color: #2c3e50;
+  color: #916600;
 }
 
 #nav a.active-link {
-  color: #42b983;
+  color: #eead14;
 }
