@@ -22,36 +22,26 @@
         Want to learn the most about Bitcoin?
         <a href="about.html">Come to our meetup!</a>
       </p>
-      <ul>
-        <li>
-          <img
-            class="main-logo"
-            src="images/Bitcoin-Pamphlet-FRONT-COVER.jpg"
-            alt="pamphlet front page"
-          />
-        </li>
-        <li>
-          <img
-            class="main-logo"
-            src="images/BitcoinPamphlet-PAGE1.jpg"
-            alt="pamphlet page 1"
-          />
-        </li>
-        <li>
-          <img
-            class="main-logo"
-            src="images/BitcoinPamphlet-PAGE2.jpg"
-            alt="pamphlet page 2"
-          />
-        </li>
-        <li>
-          <img
-            class="main-logo"
-            src="images/BitcoinPamphlet-BACKCOVER.jpg"
-            alt="pamphlet back page"
-          />
-        </li>
-      </ul>
+      <img
+        class="main-logo"
+        src="images/Bitcoin-Pamphlet-FRONT-COVER.jpg"
+        alt="pamphlet front page"
+      />
+      <img
+        class="main-logo"
+        src="images/BitcoinPamphlet-PAGE1.jpg"
+        alt="pamphlet page 1"
+      />
+      <img
+        class="main-logo"
+        src="images/BitcoinPamphlet-PAGE2.jpg"
+        alt="pamphlet page 2"
+      />
+      <img
+        class="main-logo"
+        src="images/BitcoinPamphlet-BACKCOVER.jpg"
+        alt="pamphlet back page"
+      />
     </div>
   </body>
 </html>
@@ -74,9 +64,16 @@
   }
 
   .main-logo {
-    max-width: 100%; /* Image takes the full width of its container */
+    max-width: 40%; /* Image takes the full width of its container */
     height: auto;
   }
+
+  @media only screen and (max-width: 480px) {
+    .main-logo {
+        max-width: 480px;
+        width: 100%;
+    }
+}
 
   /* Mobile styles */
   @media (max-width: 768px) {
